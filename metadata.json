@@ -1,0 +1,6 @@
+{
+  "name": "FinSync - Personal Expense & Bank Sync",
+  "description": "Smart personal expense tracking app with real-time bank synchronization, automatic categorization, multi-currency support, and recurring subscription management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
